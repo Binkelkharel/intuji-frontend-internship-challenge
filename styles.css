@@ -294,11 +294,66 @@ button {
     /* Add other styles for the hand-design box */
 }
 
+
 .handdesign{
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Ensure the image covers the entire box */
+    object-fit: cover;
+}
+
+.companies{
+    position: relative;
+    background-color: #f2f2f2
+
+}
+
+.openzepline{
+    display: flex;
+}
+
+.morpheus{
+    display: flex;
+}
+
+.over-32{
+    text-align: center;
+    padding-top: 3vw;
+    border-radius: 5px;
+    font-size: 1.5vw;
+    
+}
+
+.logos {
+    padding: 3%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 2vw; 
+    overflow-x: auto;
+    gap: 6vw;
+}
+
+.logo {
+    width: 8vw;
+    flex: 0 0 auto; /* Allow items to shrink and grow, but don't allow them to shrink below their content size */
+    max-width: 100%; /* Ensure images don't exceed their container width */
+}
+
+.smallit{
+
+   height: 1.5vw;
+   width: 1.5vw;
 }
 
 
+.logos img {
+    max-width: 100%;
+    height: auto;
+    max-height: 30px; /* set max-height as needed */
+    object-fit: contain; /* maintain aspect ratio */
+}
 
+.monday, .segment, .protonet {
+    min-width: 8vw;
+    min-height: auto;
+}
