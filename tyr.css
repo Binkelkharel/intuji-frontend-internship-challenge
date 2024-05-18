@@ -1,24 +1,27 @@
-.container {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Two columns with equal width */
-    gap: 20px; /* Gap between columns */
-    padding: 20px; /* Padding for the container */
-}
-
-.left {
-    background-color: #f2f2f2; /* Background color for the left column */
-    padding: 20px; /* Padding for the left column */
-}
-
-.right {
-    background-color: #e6e6e6; /* Background color for the right column */
-    padding: 20px; /* Padding for the right column */
-}
-
-.saa-slanding-page .container-29 {
-    margin: 0 19.4px 118.4px 19.4px;
+ .column2 {
+    margin-bottom: 29px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: fit-content;
     box-sizing: border-box;
+  }
+   .whyus {
+    margin-bottom: 13px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--pallet-4-primary, #3734A9);
+  }
+   .track {
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 50px;
+    letter-spacing: -1.5px;
+    line-height: 1.2;
+    color: #000000;
   }

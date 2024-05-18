@@ -198,11 +198,11 @@ button {
 }
 
 /* Display container-17 in one line */
-.container-17 {
+.container-197 {
+    position: relative;
     display: flex;
+    justify-content: space-around;
     margin-top: 4vw;
-    justify-content: space-around ;
-    margin-bottom: 2%;
     align-items: center;
 }
 
@@ -274,14 +274,14 @@ button {
     transform: translate(-50%, -50%);
 }
 
-.circle {
+.circlee {
     position: absolute;
     left: 41%;
     top: 20%;
     transform: translate(-50%, -50%);
     width: 130px; /* Adjust the size of the circle */
     height: 130px; /* Adjust the size of the circle */
-    background-color: #ccc; /* Gray background color */
+    background-color: #412626; /* Gray background color */
     border-radius: 50%; /* Makes the div circular */
 }
 
@@ -357,3 +357,492 @@ button {
     min-width: 8vw;
     min-height: auto;
 }
+
+
+.container2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    padding-left: 10vw;
+   padding-top: 2vw;
+    
+    position: relative;;
+}
+
+.leftside{
+    
+    
+}
+
+.righttside{
+    
+    background-color: #bbcccf;
+}
+
+.automated {
+    margin-bottom: 19px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 56px;
+    letter-spacing: -1.7px;
+    line-height: 1.179;
+    color: #000000;
+  }
+
+  .belowauto {
+    margin-right: 8.8px;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    line-height: 1.813;
+    background: linear-gradient(#000000, #000000), linear-gradient(#000000, #000000);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+.rectangle {
+    border-radius: 20px;
+    background: #C4C4C4;
+    position: relative;
+    bottom: 0px;
+    width: 402px;
+    height: 190px;
+  }
+
+.wise-busy {
+    position: absolute;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: -0.3px;
+    line-height: 1.467;
+    color: #000000;
+    padding-left: 2vw;
+    padding-top: 1vw;
+  }
+
+.mike{
+    position: absolute;
+    padding-left: 2vw;
+    bottom: 33px;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: -0.3px;
+    line-height: 1.467;
+    color: #000000;
+  }
+
+.circle {
+    position: absolute;
+    top: -1.5vw;
+    left: 10%; 
+    transform: translateX(-50%); /* Center the circle horizontally */
+    width: 40px; /* Diameter of the circle */
+    height: 40px; /* Diameter of the circle */
+    border-radius: 50%; /* Make the circle round */
+    border: 2px solid black; /* Border for the circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(20, 4, 4);
+}
+
+.semicolon {
+    margin-top: 1vw;
+    display: inline-block; /* Ensures the rotation works correctly */
+    transform: rotate(180deg); 
+    font-size: 40px; /* Size of the quotation mark */
+    color: rgb(244, 238, 238); /* Color of the quotation mark */
+}
+
+
+
+
+
+
+
+
+
+
+
+.value-props {
+    margin: 0 117px 119px 121px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    column-gap: 31px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .group-3081 {
+    border-radius: 20px;
+    border: 1px solid #DBE4E9;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 21px 22px 45px 22px;
+    width: 380px;
+    box-sizing: border-box;
+  }
+
+  .container-17 {
+    margin-bottom: 44px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 22px;
+    color: #000000;
+  }
+
+  .group-3072 {
+    margin: 0 20px 34px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50px;
+    box-sizing: border-box;
+  }
+
+  .rectangle-1482 {
+    background: var(--pallet-4-primary, #3734A9);
+    width: 50px;
+    height: 30px;
+  }
+  .rectangle-1492 {
+    background: #000000;
+    margin: 0 11px 5px 0;
+    width: 39px;
+    height: 10px;
+  }
+  .connect-wallets-companies {
+    margin: 0 20px 17px 0;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 30px;
+    letter-spacing: -0.9px;
+    line-height: 1.133;
+    color: #000000;
+  }
+  .indulgence-way-everything-joy-alteration-boisterous-the-attachment-party-we-years-to-order-allow-asked-of-1 {
+    margin-right: 20px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.857;
+    background: linear-gradient(#64607D, #64607D), linear-gradient(#757095, #757095);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .group-309 {
+    border-radius: 20px;
+    border: 1px solid #DBE4E9;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 21px 22px 45px 22px;
+    width: 380px;
+    box-sizing: border-box;
+  }
+  .container-18 {
+    margin-bottom: 44px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 22px;
+    color: #000000;
+  }
+  .group-3073 {
+    margin: 0 20px 34px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50px;
+    box-sizing: border-box;
+  }
+  .rectangle-1483 {
+    background: var(--pallet-4-accent, #FF7F5C);
+    width: 50px;
+    height: 30px;
+  }
+  .rectangle-1493 {
+    background: #000000;
+    margin: 0 11px 5px 0;
+    width: 39px;
+    height: 10px;
+  }
+  .review-transactions {
+    margin: 0 20px 17px 0;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 30px;
+    letter-spacing: -0.9px;
+    line-height: 1.133;
+    color: #000000;
+  }
+  .indulgence-way-everything-joy-alteration-boisterous-the-attachment-party-we-years-to-order-allow-asked-of-2 {
+    margin-right: 20px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.857;
+    background: linear-gradient(#64607D, #64607D), linear-gradient(#757095, #757095);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  .group-310 {
+    border-radius: 20px;
+    border: 1px solid #DBE4E9;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 21px 22px 45px 22px;
+    width: 380px;
+    box-sizing: border-box;
+  }
+  .container-19 {
+    margin-bottom: 44px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 22px;
+    color: #000000;
+  }
+  .group-3074 {
+    margin: 0 20px 34px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50px;
+    box-sizing: border-box;
+  }
+  .rectangle-1484 {
+    background: var(--pallet-4-tone, #FDBC64);
+    width: 50px;
+    height: 30px;
+  }
+  .rectangle-1494 {
+    background: #000000;
+    margin: 0 11px 5px 0;
+    width: 39px;
+    height: 10px;
+  }
+  .get-income-insights {
+    margin: 0 20px 17px 0;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 30px;
+    letter-spacing: -0.9px;
+    line-height: 1.133;
+    color: #000000;
+  }
+  .indulgence-way-everything-joy-alteration-boisterous-the-attachment-party-we-years-to-order-allow-asked-of-3 {
+    margin-right: 20px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.857;
+    background: linear-gradient(#64607D, #64607D), linear-gradient(#757095, #757095);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+
+
+  .container3 {
+    padding-left: 2vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    gap: 10px; /* Gap between columns */
+}
+
+.column {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.rectangle1 {
+    box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.03), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.023), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.018), 0px 20px 13px 0px rgba(0, 0, 0, 0.015), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.012), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.007);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 17px 25px 17px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 16px 0 9px 19px;
+    width: 433px;
+    box-sizing: border-box;
+    
+
+}
+
+.rectangle2{
+    box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.03), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.023), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.018), 0px 20px 13px 0px rgba(0, 0, 0, 0.015), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.012), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.007);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 25px;
+    margin-left: 10vw;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    padding: 16px 0 9px 19px;
+    width: 433px;
+    box-sizing: border-box;
+  }
+.rectangle3 {
+    box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.03), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.023), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.018), 0px 20px 13px 0px rgba(0, 0, 0, 0.015), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.012), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.007);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 25px;
+    margin-left: 4vw;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    padding: 16px 0 9px 19px;
+    width: 433px;
+    box-sizing: border-box;
+}
+
+.picture img {
+    border-radius: 50%;
+    width: auto; 
+    height: auto; /* Set height for the picture */
+    background-color: lightgray; /* Example background color */
+}
+
+.container-6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px; /* Margin to separate from the picture */
+}
+
+.groupmoney {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.received {
+    color: gray;
+}
+
+.column2 {
+    margin-bottom: 29px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+   .whyus {
+    margin-bottom: 13px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--pallet-4-primary, #3734A9);
+  }
+   .track {
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 50px;
+    letter-spacing: -1.5px;
+    line-height: 1.2;
+    color: #000000;
+  }
+
+  .indulance{
+    margin-bottom: 23px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    line-height: 1.667;
+    background: linear-gradient(#64607D, #64607D), linear-gradient(#505887, #505887);
+    color: transparent;
+    background-clip: text;
+  }
+
+
+ .rectanglethin {
+    background: #C4C4C4;
+    margin: 0 20px 27px 0;
+    width: 490px;
+    height: 2px;
+  }
+
+
+  .tickk {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Space between each tick item */
+}
+
+
+
+/* Additional styling for the tick text */
+.tick1, .tick2, .tick3 {
+    display: flex;
+    align-items: center;
+
+}
+
+
+.get::before {
+    content: '\2713'; /* Unicode character for tick mark */
+    color: #fff;
+    background-color: rgb(227, 200, 26);
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
