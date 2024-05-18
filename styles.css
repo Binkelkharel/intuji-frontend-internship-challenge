@@ -1,0 +1,304 @@
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+
+.container-logo{
+    margin: 2vw;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Show the dropdown content when the dropdown is hovered over */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Show the dropdown content when the dropdown is hovered over */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Show the dropdown content when the dropdown is hovered over */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.start-free {
+    display: inline-block;
+    background: linear-gradient(90deg, blue, purple);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.start-free span {
+    color: white;
+    font-weight: bold;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #aedae2;
+    padding: 10px 20px;
+}
+
+.header span {
+    margin-right: auto; /* Pushes the span to the left */
+}
+
+.nav {
+    display: flex;
+}
+
+.nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+button {
+    background-color: #ffffff;
+    color: rgb(19, 3, 3);
+    border: none;
+    padding: 8px 16x;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.container-nav {
+    display: flex;
+    padding: 8px 80px;
+    border: none;
+    
+}
+
+.dropdown {
+    padding: 8px 10px;
+    margin-right: 20px; /* Adjust this value to set the space between dropdown items */
+}
+
+/* Additional CSS for dropdown styling */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content button {
+    width: 100%;
+    text-align: left;
+    padding: 8px 102px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.dropdown-content button:hover {
+    background-color: #ddd;
+}
+
+
+
+
+
+
+.content-2 {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin-top: 2vw;
+    margin-bottom: 10vw;
+    line-height: 1.5;
+}
+
+ .managing-freelance-payments-has-never-been-easier {
+    font-weight: bold;
+    font-size: 60px;
+   
+}
+
+.group-177 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.polygon-2 {
+    margin-right: 10px;
+    width: 20px; /* Adjust the width as needed */
+    height: 20px; /* Adjust the height as needed */
+
+}
+
+.see-how-it-works {
+    display: flex;
+    align-items: center;
+}
+
+.vector-3313 {
+    margin-right: 10px;
+}
+
+.free-register::before {
+    content: '\2713'; /* Unicode character for tick mark */
+    color: #fff;
+    background-color: blue;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.great-service::before {
+    content: '\2713'; /* Unicode character for tick mark */
+    color: #fff;
+    background-color: blue;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+/* Display container-17 in one line */
+.container-17 {
+    display: flex;
+    margin-top: 4vw;
+    justify-content: space-around ;
+    margin-bottom: 2%;
+    align-items: center;
+}
+
+/* Display group-1591 in another line */
+.group-1591 {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.group-153 button {
+    background-color: rgb(53, 10, 245);
+    color: white;
+    border-radius: 30%;
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none;
+    cursor: pointer;
+}
+
+
+
+.left {
+    background-color: #aedae2;
+    padding:1vw; 
+
+}
+
+.container {
+    display: grid;
+    
+    grid-template-columns: repeat(2, 1fr); /* Two columns with equal width */
+    gap: 2px; /* Gap between columns */
+    padding-left: 10vw;
+    padding-bottom: 0vw;
+    background-color: #aedae2;
+}
+
+.right {
+    
+    background-color: #aedae2;
+    position: relative;
+    overflow: hidden; 
+}
+
+.rotate-90 {
+    height: 20vw;
+    width: 80vw;
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 26vw; 
+}
+.rotate-180 {
+    height: 14vw;
+    width: 40vw;
+    transform: rotate(270deg);
+    position: absolute;
+    bottom: 12vw; 
+
+}
+
+
+.shape {
+    height:6vw ;
+    width:6vw ;
+    position: absolute;
+    left: 41%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.circle {
+    position: absolute;
+    left: 41%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    width: 130px; /* Adjust the size of the circle */
+    height: 130px; /* Adjust the size of the circle */
+    background-color: #ccc; /* Gray background color */
+    border-radius: 50%; /* Makes the div circular */
+}
+
+.hand-design {
+    position: absolute;
+    bottom: 2;
+    left: 0;
+    width: 100px; /* Set the width of the box */
+    height: 100px; /* Set the height of the box */
+    /* Add other styles for the hand-design box */
+}
+
+.handdesign{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire box */
+}
+
+
+
