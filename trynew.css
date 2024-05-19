@@ -1,61 +1,77 @@
-.saa-slanding-page .cta {
-  border-radius: 20px;
-  background: #3734A9;
-  position: relative;
-  margin: 0 117px 150px 123px;
+.footer {
   display: flex;
-  padding: 49px 36px 43.6px 108px;
-  box-sizing: border-box;
-}
-.saa-slanding-page .discover-abetter-way-to-manage-spendings {
-  position: relative;
-  margin: 0 0 3px 11.6px;
-  display: inline-block;
-  text-align: center;
-  overflow-wrap: break-word;
-  font-family: 'Manrope';
-  font-weight: 800;
-  font-size: 56px;
-  letter-spacing: -1.7px;
-  line-height: 1.089;
-  color: #FFFFFF;
-}
-.saa-slanding-page .vector-22 {
-  opacity: 0.3;
-  position: absolute;
-  left: 190px;
-  top: 58px;
-  width: 148px;
-  height: 148px;
 }
 
-.saa-slanding-page .button {
-  border-radius: 10px;
-  background: #FF7F5C;
-  position: relative;
-  margin-top: 38px;
-  display: flex;
-  padding: 19px 0 18px 0;
-  width: 223px;
-  height: fit-content;
-  box-sizing: border-box;
+.column {
+  flex: 1; /* Each column takes equal space */
+  padding: 20px;
 }
-.saa-slanding-page .get-started-now {
+
+/* Remove right border from the last column */
+.column:last-child {
+  border-right: none;
+}
+
+.socialsite img {
+  width: 2vw; 
+  height: 2vw;
+}
+
+.email input[type="text"] {
+  width: 200px; 
+  height: 30px; 
+  background-color: #dcd8d8;
+  border: none;
+}
+
+.subscribe {
+  background-color: rgb(89, 89, 247); 
+  color: white; 
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+ 
+  height: 32px; 
+}
+.weekely{
+
+  opacity: 0.5;
+  align-self: flex-start;
   overflow-wrap: break-word;
   font-family: 'Manrope';
-  font-weight: 700;
-  font-size: 18px;
-  letter-spacing: -0.4px;
-  line-height: 1.667;
-  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  line-height: 1.625;
+  color: #181433;
+  margin-top: 2vw;
 }
-.saa-slanding-page .group-268 {
-  margin: 0 82px 42.3px 82px;
-  width: 105px;
-  height: 16.7px;
+.rectangle97 {
+  background: #E5E5EA;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-bottom: 2vw; ;
+  width: 80%;
+  height: 2px;
 }
-.saa-slanding-page .group-277 {
-  margin: 185.6px 125px 0 0;
-  width: 16px;
-  height: 100.8px;
+
+.footer-right{
+  text-align: center;
+  margin-left: 24px;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  line-height: 1.625;
+  color: #181433;
+}
+
+.copyright{
+  margin-top:4vw ;
+}
+
+.footer-right{
+  
+  text-align: center;
 }
