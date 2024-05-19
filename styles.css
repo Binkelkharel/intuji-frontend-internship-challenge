@@ -1306,12 +1306,13 @@ button {
 /* Style for the left container */
 .containerdoubleleft {
   background-color: #f0f0f0; /* Example background color */
-  padding: 20px;
+  width: 13vw;
+  height: 14vw;
 }
 
 /* Additional styles for demonstration purposes */
 .containerdouble {
-  margin: 20px auto;
+  margin: 4vw auto;
   width: 80%;
 }
 
@@ -1323,3 +1324,747 @@ button {
     height: 190px;
     padding:1vw;
 }
+
+.containerdoubleleft img{
+  max-width: 100%;
+  height: 100%;
+}
+
+
+.stats {
+  background: #3734A9;
+  position: relative;
+  margin-bottom: 147px;
+  display: flex;
+  width: 100%;
+  box-sizing: border-box;
+}
+.container-21 {
+  margin-left: 6vw;
+  background: #3734A9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  word-wrap: break-word;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.we-speak-with-our-powerfull-statistics {
+  margin: 79.5px 40.2px 79px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 400;
+  font-size: 19px;
+  letter-spacing: -0.4px;
+  line-height: 1.632;
+  color: #FFFFFF;
+}
+.vector-353 {
+  background: #3D3D3D;
+  margin-right: 63px;
+  width: 2px;
+  height: 251.5px;
+}
+.group-323 {
+  margin: 66.5px 126.5px 61px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.m {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 72px;
+  letter-spacing: -1.4px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.group-320 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-318 {
+  margin: 2px 16px 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-66 {
+  border-radius: 7px;
+  background: #B1CA16;
+  margin: 0 3px 1px 3px;
+  width: 14px;
+  height: 14px;
+}
+.ellipse-67 {
+  width: 20px;
+  height: 10px;
+}
+.active-users {
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -0.6px;
+  line-height: 1.033;
+  color: #FFFFFF;
+}
+.group-321 {
+  border-radius: 1px;
+  margin: 66.5px 87.1px 61px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.k {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 72px;
+  letter-spacing: -1.4px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.group-319 {
+  border-radius: 1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.star-11 {
+  border-radius: 1px;
+  margin: 1px 10px 4px 0;
+  width: 26px;
+  height: 26px;
+}
+.stars-reviews {
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -0.6px;
+  line-height: 1.033;
+  color: #FFFFFF;
+}
+
+.group-322 {
+  border-radius: 1px;
+  margin: 66.5px 0 61px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.m-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 72px;
+  letter-spacing: -1.4px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.group-3191 {
+  border-radius: 1px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.star-111 {
+  border-radius: 1px;
+  margin: 1px 10px 4px 0;
+  width: 26px;
+  height: 26px;
+}
+.transactions {
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -0.6px;
+  line-height: 1.033;
+  color: #FFFFFF;
+}
+.container-2 {
+  position: absolute;
+  top: 20px;
+  right: 0px;
+  width: 123px;
+  height: 170.6px;
+}
+
+
+.recent-blogs {
+  margin: 0 117px 150px 119px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.recent-blogs-1 {
+  margin-bottom: 72px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 71px;
+  letter-spacing: -2.1px;
+  line-height: 0.93;
+  color: #000000;
+}
+.row {
+  position: relative;
+  margin: 0 1px 29px 4px;
+  padding-right: 32px;
+  box-sizing: border-box;
+}
+.in-design-active-temper-be-uneasy-thirty-for-remove-plenty-regard {
+  margin-bottom: 68px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 29px;
+  letter-spacing: -0.6px;
+  line-height: 1.241;
+  color: #000000;
+}
+.best-practices {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1.1px;
+  line-height: 2.25;
+  text-transform: uppercase;
+  color: #000000;
+}
+.rectangle-155 {
+  background: url('images/rectangle_1552.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 499px;
+  height: 285px;
+}
+.border-button {
+  padding: 10px 20px;
+  border: 2px solid #333; 
+  background-color: #fff;
+  color: #000; 
+  font-size: 1vw;
+  cursor: pointer;
+
+  display: inline-block;
+  border-radius: 5px;
+}
+
+
+.border-button:hover {
+  background-color: #bcdbe3;
+}
+
+.read-more {
+  margin-right: 10.2px;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1;
+  color: var(--pallet-1-dark, #1B1C31);
+}
+.row-1 {
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-326 {
+  margin-right: 28px;
+  display: flex;
+  flex-direction: column;
+  width: 382px;
+  box-sizing: border-box;
+}
+.partiality-on-or-continuing-particular-principles-as {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 29px;
+  letter-spacing: -0.6px;
+  line-height: 1.241;
+  color: #000000;
+}
+.best-practices-1 {
+  margin-bottom: 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1.1px;
+  line-height: 2.25;
+  text-transform: uppercase;
+  color: #000000;
+}
+.rectangle-1551 {
+  background: url('images/rectangle_155.png') 50% / cover no-repeat;
+  width: 382px;
+  height: 202px;
+}
+.group-327 {
+  margin-right: 29px;
+  display: flex;
+  flex-direction: column;
+  width: 382px;
+  box-sizing: border-box;
+}
+.village-did-removed-enjoyed-explain {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 29px;
+  letter-spacing: -0.6px;
+  line-height: 1.241;
+  color: #000000;
+}
+.best-practices-2 {
+  margin-bottom: 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1.1px;
+  line-height: 2.25;
+  text-transform: uppercase;
+  color: #000000;
+}
+.rectangle-1552 {
+  background: url('images/rectangle_1551.png') 50% / cover no-repeat;
+  width: 382px;
+  height: 202px;
+}
+.group-328 {
+  display: flex;
+  flex-direction: column;
+  width: 382px;
+  box-sizing: border-box;
+}
+.wise-busy-past-both-park-when-an-ye-no-nay-likely-her-length {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 29px;
+  letter-spacing: -0.6px;
+  line-height: 1.241;
+  color: #000000;
+}
+
+.best-practices-3 {
+margin-bottom: 7px;
+display: inline-block;
+align-self: flex-start;
+overflow-wrap: break-word;
+font-family: 'Manrope';
+font-weight: 700;
+font-size: 16px;
+letter-spacing: 1.1px;
+line-height: 2.25;
+text-transform: uppercase;
+color: #000000;
+}
+.rectangle-1553 {
+  background: url('images/rectangle_1553.png') 50% / cover no-repeat;
+  width: 382px;
+  height: 202px;
+}
+
+.container9 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 25px 0 58px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.container10 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 25px 0 58px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container15 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 25px 0 58px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container28 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 25px 0 20px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+
+
+
+.faqs {
+  margin-bottom: 150px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.containerforfeqs{
+  height: 10vw;
+  width: 100%;
+  display: flex;
+  position: relative;
+  gap: 80vw  ;
+}
+
+
+
+
+.fequently-asked-questions {
+  position: absolute;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 71px;
+  letter-spacing: -2.1px;
+  line-height: 1.07;
+  color: #000000;
+  width: fit-content;
+  margin-left: 10vw;
+}
+.containerfeqs
+{
+  display: flex;
+ 
+  height: 1vw;
+ 
+  transform: translate(-0%,-40%);
+
+}
+
+.container-26{
+  margin-top: 2vw;
+  margin-left: 5vw;
+  width: fit-content;
+  display: flex;
+  gap: 2vw;
+}
+
+
+.container19{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container-1 {
+  margin-right: 5vw;
+}
+
+
+
+.fill-333 {
+  width: 207.6px;
+  height: 151.5px;
+}
+.group-337 {
+  margin-right: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.group-332 {
+  border-radius: 10px;
+  border: 1px solid #CFCFCF;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1vw;
+ 
+  display: flex;
+  flex-direction: column;
+  padding: 25px 27px 24px 23px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-331 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 701px;
+  box-sizing: border-box;
+}
+.group-330 {
+  margin: 1.5px 0 0.5px 0;
+  width: 20px;
+  height: 20px;
+}
+.the-expense-windows-adapted-sir-wrong-widen-drawn {
+  margin-right: 11px;
+  width: 670px;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1;
+  color: #000000;
+}
+.offending-belonging-promotion-provision-an-be-oh-consulted-ourselves-it-blessing-welcomed-ladyship-she-met-humoured-sir-breeding-her {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  line-height: 1.938;
+  background: linear-gradient(#000000, #000000), linear-gradient(#000000, #000000);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.group-333 {
+  border-radius: 10px;
+  border: 1px solid #CFCFCF;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 27px 27px 23px;
+  width: 751px;
+  box-sizing: border-box;
+}
+.group-3301 {
+  margin: 1.5px 0 0.5px 0;
+  width: 20px;
+  height: 20px;
+}
+.six-curiosity-day-assurance-bed-necessary {
+  margin-right: 11px;
+  width: 670px;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1;
+  color: #000000;
+}
+.group-334 {
+  border-radius: 10px;
+  border: 1px solid #CFCFCF;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 27px 27px 24.5px 23px;
+  width: 751px;
+  box-sizing: border-box;
+}
+.group-3302 {
+  margin-top: 2.5px;
+  width: 20px;
+  height: 20px;
+}
+.produce-say-the-ten-moments-parties {
+  margin: 0 11px 0.5px 0;
+  display: inline-block;
+  width: 670px;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1;
+  color: #000000;
+}
+.group-335 {
+  border-radius: 10px;
+  border: 1px solid #CFCFCF;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 27px 27px 23px;
+  width: 751px;
+  box-sizing: border-box;
+}
+.group-3303 {
+  margin: 1.5px 0 0.5px 0;
+  width: 20px;
+  height: 20px;
+}
+.simple-innate-summer-fat-appear-basket-his-desire-joy {
+  margin-right: 11px;
+  width: 670px;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1;
+  color: #000000;
+}
+.group-336 {
+  border-radius: 10px;
+  border: 1px solid #CFCFCF;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 27px 27px 23px;
+  width: 751px;
+  box-sizing: border-box;
+}
+.group-3304 {
+  margin: 1.5px 0 0.5px 0;
+  width: 20px;
+  height: 20px;
+}
+.outward-clothes-promise-at-gravity-do-excited {
+  margin-right: 11px;
+  width: 670px;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1;
+  color: #000000;
+}
+.group-351 {
+  border-radius: 10px;
+  border: 1px solid #CFCFCF;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 32px 32px 32px;
+  width: 401px;
+  box-sizing: border-box;
+}
+.vector-355 {
+  margin: 0 0 43px 1px;
+  width: 67px;
+  height: 63px;
+}
+.do-you-have-more-questions {
+  margin: 0 0.7px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1;
+  color: #000000;
+}
+.end-to-end-payments-and-financial-management-in-asingle-solution-meet-the-right-platform-to-help-realize {
+  margin: 0 0 93px 4px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  line-height: 1.938;
+  background: linear-gradient(#000000, #000000), linear-gradient(#000000, #000000);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+
+
+.shoot-adirect-mail button{
+  background-color: #FF7F5C;
+  text-align: center;
+  color:#FFFFFF;
+  padding: 1vw;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  font-family: 'Manrope';
+  overflow-wrap: break-word;
+  border: none;
+  cursor: pointer;
+}
+
+.shoot-adirect-mail button:hover {
+  background-color: rgb(39, 131, 223);
+  color: #000000;
+  border-radius: 10%;
+}
+
+
+
+.container-1 {
+  margin: 87px 89.1px 0.1px 0;
+  display: flex;
+  width: 59.9px;
+  height: 64.9px;
+  box-sizing: border-box;
+}
+.fill-5 {
+  width: 10vw;
+  height: 10vw;
+  transform: translate(-50%,-50%);
+}
+
+
+
+
+

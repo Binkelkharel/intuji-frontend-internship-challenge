@@ -1,0 +1,61 @@
+.saa-slanding-page .cta {
+  border-radius: 20px;
+  background: #3734A9;
+  position: relative;
+  margin: 0 117px 150px 123px;
+  display: flex;
+  padding: 49px 36px 43.6px 108px;
+  box-sizing: border-box;
+}
+.saa-slanding-page .discover-abetter-way-to-manage-spendings {
+  position: relative;
+  margin: 0 0 3px 11.6px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 800;
+  font-size: 56px;
+  letter-spacing: -1.7px;
+  line-height: 1.089;
+  color: #FFFFFF;
+}
+.saa-slanding-page .vector-22 {
+  opacity: 0.3;
+  position: absolute;
+  left: 190px;
+  top: 58px;
+  width: 148px;
+  height: 148px;
+}
+
+.saa-slanding-page .button {
+  border-radius: 10px;
+  background: #FF7F5C;
+  position: relative;
+  margin-top: 38px;
+  display: flex;
+  padding: 19px 0 18px 0;
+  width: 223px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.saa-slanding-page .get-started-now {
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -0.4px;
+  line-height: 1.667;
+  color: #FFFFFF;
+}
+.saa-slanding-page .group-268 {
+  margin: 0 82px 42.3px 82px;
+  width: 105px;
+  height: 16.7px;
+}
+.saa-slanding-page .group-277 {
+  margin: 185.6px 125px 0 0;
+  width: 16px;
+  height: 100.8px;
+}
